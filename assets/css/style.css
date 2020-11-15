@@ -369,9 +369,20 @@ section {
         padding: 10% 0 10% 10%;
     }
 
+    .about .content .content-title p {
+        font-size: 1vw;
+    }
+
+
+    .about .button {
+        width: 40%;
+    }
+
     .about .box2 {
         padding: 10%;
     }
+
+
 }
 
 @media (max-width: 992px) {
