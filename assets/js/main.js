@@ -1,4 +1,5 @@
 var folder = "./assets/img/gallery";
+var f; 
 
 $.ajax({
     url : folder,
